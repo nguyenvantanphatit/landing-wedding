@@ -13,8 +13,8 @@ import { Services } from "./components/Services";
 import { Sponsors } from "./components/Sponsors";
 import { Team } from "./components/Team";
 import { Testimonials } from "./components/Testimonials";
-import "./App.css";
 import Header from "./components/Header";
+import "./App.css";
 
 function App() {
   return (
